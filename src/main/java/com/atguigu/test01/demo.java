@@ -7,5 +7,7 @@ public class demo {
         System.out.println("git test3");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("pull test");
+
     }
 }
